@@ -13,7 +13,7 @@
     </p>
     <p style="margin: 5px 0;">
       <img src="https://img.icons8.com/ios-filled/16/555555/marker.png" width="16" style="vertical-align: middle;"/>
-      <strong>Локация:</strong> Москва, Россия
+      <strong>Локация:</strong> Москва, Россия (удаленно весь мир)
     </p>
   </div>
   <div style="flex: 1; min-width: 200px;">

@@ -44,7 +44,7 @@ React • TypeScript • JavaScript • HTML5 • CSS3 • Next.js • Redux •
 Query • MobX • Zustand • React Hook Form • Formik • Zod • Yup • React Router • Axios • GraphQL • REST API • WebSocket • react-
 beautiful-dnd • styled-components • CSS Modules • Sass • Material-UI • Ant Design • Chakra UI • Tailwind CSS • Framer Motion
 Swiper • date-fns • clsx • Moment.js • Recharts • TanStack Table • Jest • Puppeteer • Storybook • Webpack • Vite • ESLint • Prettier
-exceljs • Jira
+exceljs • Jira • Node.js • Express.js
 
 ## 💼 Опыт работы
 

@@ -24,28 +24,40 @@
 
 ## 🚀 О себе
 
-Frontend разработчик (React) с 4+ годами коммерческого опыта, участвовавший в проектах разной величины, включая команды
-от 1 до 15+ человек (удалённо и в офисе). Эффективен в Agile/Scrum. Сфокусирован на производительности и
-поддерживаемости кода. Постоянно изучаю профессиональную литературу и best practices. Мечтаю создать Open Source-
-библиотеку компонентов. Верю, что код — это не просто работа, а способ менять цифровой мир.
+Senior Frontend Engineer с 5+ годами коммерческого опыта разработки высоконагруженных web-приложений на React, Next.js и
+TypeScript.
 
-**Ключевые достижения:**
+Имею опыт работы в доменах gambling (онлайн-лотереи, real-time порталы), промышленного производства (MES-системы) и
+e-commerce. Специализируюсь на разработке сложных интерактивных интерфейсов и real-time систем с использованием
+современных frontend-подходов.
 
-- Сократил время загрузки приложения на 40% через оптимизацию бандла и ленивую загрузку.
-- Принял участие в создании дизайн-системы с Storybook, унифицировав 15+ компонентов для 3 продуктов компании.
-- Разработал систему визуальных регрессионных тестов для плавного перехода на новую дизайн-систему.
+В рамках последних проектов участвовал в разработке продуктовых фич, влияющих на ключевые пользовательские метрики:
+реализовал кастомные механики взаимодействия (gesture-based ввод, мультиставки), что способствовало росту конверсии и
+вовлечённости пользователей. Также занимался оптимизацией производительности, включая снижение времени загрузки
+приложений до 40% и улучшение отзывчивости интерфейсов в legacy-системах.
+
+Сильные стороны: проектирование архитектуры frontend-приложений, разработка масштабируемых и поддерживаемых решений,
+создание переиспользуемых компонентов и design system, а также профилирование и оптимизация производительности (Core Web
+Vitals, React Profiler, Lighthouse).
+
+Достигаю результатов за счёт системного подхода к разработке: анализ пользовательских сценариев, работа с метриками,
+A/B-тестирование, а также тесное взаимодействие с продуктовой командой (backend, аналитика, дизайн).
+
+Наиболее заинтересован в развитии в доменах gambling и fintech, где могу применять опыт разработки real-time
+интерфейсов, продуктовых фич и высоконагруженных систем.
 
 ## 🛠 Навыки
 
-React • TypeScript • JavaScript • HTML5 • CSS3 • Next.js • Redux • Redux Toolkit • Redux-Saga • Redux Thunk • RTK
-Query • TanStack
-Query • MobX • Zustand • React Hook Form • Formik • Zod • Yup • React Router • Axios • GraphQL • REST API • WebSocket •
-react-
-beautiful-dnd • styled-components • CSS Modules • Sass • Material-UI • Ant Design • Chakra UI • Tailwind CSS • Framer
-Motion
-Swiper • date-fns • clsx • Moment.js • Recharts • TanStack Table • Jest • Puppeteer • Storybook • Webpack • Vite •
-ESLint • Prettier
-exceljs • Jira • Node.js • Express.js
+**Core:** Next.js, React, TypeScript, JavaScript, HTML5, CSS3, React Router  
+**State & Data:** Redux Toolkit, Zustand, MobX, TanStack Query, RTK Query, React Hook Form, Zod  
+**UI & Styling:** Material-UI, Ant Design, Chakra UI, Tailwind CSS, styled-components, Framer Motion, SVG, Canvas,
+Lottie, Figma  
+**APIs & Communication:** Axios, Ky,GraphQL, REST API, WebSocket, Node.js, Express.js, Nest.js  
+**Dev Tools:** Webpack, Vite, ESLint, Prettier, Jest, Storybook, React Profiler, Lighthouse, Docker, Docker Compose,
+GitHub Actions, GitLab CI  
+**Productivity Libraries:** Recharts, TanStack Table, Swiper, date-fns, react-beautiful-dnd, Floating UI  
+**Supporting Tech:** CSS Modules, Sass, Formik, Yup, clsx, Moment.js, exceljs, Jira, Puppeteer, requestAnimationFrame  
+**AI & Productivity Tools:** Claude.ai, ChatGPT, Cursor IDE, GitHub Copilot
 
 ## 💼 Опыт работы
 
